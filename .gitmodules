@@ -1,0 +1,3 @@
+[submodule "auth_API"]
+	path = auth_API
+	url = https://github.com/TheNaFeR02/auth_API
